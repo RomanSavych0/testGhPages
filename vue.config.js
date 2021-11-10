@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/hello-world/'
+    publicPath: '/testGhPages/'
 }
